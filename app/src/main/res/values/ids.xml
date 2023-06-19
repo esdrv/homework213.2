@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="railwayTicketOut" type="id" />
+    <item name="busTicketOut" type="id" />
+    <item name="busTicketPensionerOut" type="id" />
+    <item name="busTicketChildOut" type="id" />
+    <item name="busTicketTotalOut" type="id" />
+</resources>
